@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nanda kumar goud Nandhi</h1>
-<h3 align="center">A passionate frontend developer and Salesforce from India</h3>
+<h3 align="center">A passionate Java developer from India</h3>
 
-- 🌱 I’m currently learning **Salesforce Platform Development**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **React Angular Node Java**
+- 💬 Ask me about **Angular Java**
 
 - 📫 How to reach me **nandakumar.nandi777@gmail.com**
 
